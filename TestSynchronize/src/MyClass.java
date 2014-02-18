@@ -9,5 +9,9 @@ public class MyClass {
 		System.out.println("This is the second class i've create");
 
 	}
+	
+	public void theFakeMethod(){
+		System.out.println("I'm a fake method, and so ?");
+	}
 
 }
